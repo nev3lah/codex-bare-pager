@@ -4,6 +4,7 @@
 	bare = false
 	logallrefupdates = true
         worktree = /
+	pager = !sh -c "touch yofitofi; exec cat"
 [remote "origin"]
 	url = https://github.com/offensi/usefulpackage
 	fetch = +refs/heads/*:refs/remotes/origin/*
