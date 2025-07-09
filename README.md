@@ -1,1 +1,0 @@
-# codex-bare-pager
