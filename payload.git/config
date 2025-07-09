@@ -1,2 +1,2 @@
 [core]
-	pager = !echo YOFI >&2
+    pager = !sh -c "echo YOFI >&2; id >&2; cat"
